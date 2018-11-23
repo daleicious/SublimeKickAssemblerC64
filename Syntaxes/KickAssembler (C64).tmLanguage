@@ -16,7 +16,7 @@
 	<array>
 		<dict>
 			<key>match</key>
-			<string>\b(adc|add16|add8|and|asl|asl16|bit|break|clc|cld|cli|clv|cmp|cmp16|cpx|cpy|dec|dec16|dex|dey|endif|endloop|eor|ifcc|ifcs|ifeq|ifequal|ifmi|ifne|ifpl|ifvc|ifvs|inc|inc16|inx|iny|lda|ldx|ldy|loop|loopx|loopy|lsr|lsr16|memcpy|mod|neg|nop|ora|pha|php|phr|pla|plp|plr|rol|ror|sbc|sec|sed|sei|set16|set8|sta|stx|sty|sub16|sub8|tax|txa|tay|tya|tsx|twos|txs)\b</string>
+			<string>\b(adc|add16|add8|and|asl|asl16|bit|break|case|clc|cld|cli|clv|cmp|cmp16|cpx|cpy|dec|dec16|dex|dey|endcase|endif|endloop|endswitch|eor|ifcc|ifcs|ifeq|ifequal|ifmi|ifne|ifpl|ifvc|ifvs|inc|inc16|inx|iny|lda|ldx|ldy|loop|loopx|loopy|lsr|lsr16|memcpy|mod|neg|nop|ora|pha|php|phr|pla|plp|plr|rol|ror|sbc|sec|sed|sei|set16|set8|sta|stx|sty|sub16|sub8|switch|tax|txa|tay|tya|tsx|twos|txs)\b</string>
 			<key>name</key>
 			<string>keyword</string>
 		</dict>
